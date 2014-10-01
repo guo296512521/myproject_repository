@@ -1,0 +1,7 @@
+/*
+@date	2014-10-01
+@author guoyongfeng
+@description this file just for test
+
+let's start to learn git
+
